@@ -58,6 +58,6 @@ This application fetches quotes from the [Quote Garden API](https://quote-garden
 - This project was created by Sayed Zaheer Abass.
 - Quotes are provided by the Quote Garden API.
 
-## License
+## Connect or Follow:
+-[LinkedIn](https://www.linkedin.com/in/sayed-zaheer-abass)
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
