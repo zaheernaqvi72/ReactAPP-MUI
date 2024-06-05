@@ -1,4 +1,4 @@
-# Quotes Application
+# [Quotes Application](https://react-app-mui-nu.vercel.app/)
 
 This is a simple React application that fetches quotes from an API and displays them in a user-friendly format. Users can search for quotes by author or text.
 
