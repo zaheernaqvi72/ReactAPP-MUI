@@ -15,6 +15,7 @@ This is a simple React application that fetches quotes from an API and displays 
 - React.js
 - Material-UI
 - JavaScript (ES6+)
+- Vite
 
 ## Installation
 
